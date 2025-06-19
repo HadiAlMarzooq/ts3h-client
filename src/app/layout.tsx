@@ -11,8 +11,8 @@ const ibmArabic = IBM_Plex_Sans_Arabic({
 });
 
 export const metadata: Metadata = {
-  title: "البحث في iTunes",
-  description: "منصة تس3ه - ابحث عن الأغاني والفنانين باستخدام iTunes API",
+  title: "تسعة",
+  description: "ثاني أكبر منصة بودكاست في العالم العربي",
 };
 
 export default function RootLayout({
