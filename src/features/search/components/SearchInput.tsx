@@ -31,7 +31,7 @@ export const SearchInput = ({
     >
       <Input
         type="text"
-        placeholder="اكتب اسم الأغنية أو الفنان..."
+        placeholder="فنجان"
         dir="rtl"
         value={term}
         onChange={(e) => setTerm(e.target.value)}
